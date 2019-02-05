@@ -23,7 +23,7 @@ $(document).ready(function(){
 
 	$('#slides').width(totWidth);
 
-	/* Change the cotnainer div's width to the exact width of all the slides combined */
+	/* Change the container div's width to the exact width of all the slides combined */
 
 	$('#menu ul li a').click(function(e,keepScroll){
 

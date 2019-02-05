@@ -6,7 +6,6 @@
     'data': [
 
 		'views/assets.xml',
-
         'views/MainPage.xml',
         'views/Footer.xml',
     ],

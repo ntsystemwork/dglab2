@@ -8,3 +8,5 @@ class WebsiteMainUser(Home):
     @http.route('/main/signuser', type='http', auth="public", website=True)
     def website_mainuser(self, **kwargs):
         return request.render('Abogados7x24Rew.MAINSIGNUSER', {})
+
+        

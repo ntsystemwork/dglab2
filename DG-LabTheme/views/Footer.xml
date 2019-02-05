@@ -4,6 +4,7 @@
 		<xpath expr="//footer" position="replace">
 
 			<div class="GRAYCOLOR03">
+				<h3>Footer Lab</h3>
 
 			</div>
 

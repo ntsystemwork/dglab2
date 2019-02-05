@@ -79,7 +79,7 @@ li.inact:hover{
 
 li.act,li.act:hover{
 	/* The active state of the thumb */
-	background:url(/Theme_DGLab/static/src/images/active_bg.png) no-repeat;
+	background:url(/Theme_DGLab/static/src/SlideShow_Images/active_bg.png) no-repeat;
 }
 
 li.act a{

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odoo>
+
+	<template id="DGLab" name="DGLab">
+		<t t-call="website.layout">
+			<body>
+
+				<div class="GRAYCOLOR02">
+
+				</div>
+
+			</body>
+		</t>
+	</template>
+
+	<delete model="website.page" search="[('id','=',ref('website.homepage_page'))]"/>
+	<record id="homepage_page" model="website.page">
+		<field name="website_published">True</field>
+		<field name="url">/</field>
+		<field name="view_id" ref="DGLab"/>
+	</record>
+</odoo>

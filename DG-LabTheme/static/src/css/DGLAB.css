@@ -1,0 +1,27 @@
+/* CSS Document */
+
+
+/*-----GLOBAL STYLES-----*/
+
+body {
+	background-color:#F6F6F6;
+	margin:0 auto;
+}
+
+*, *:before, *:after {
+    -webkit-box-sizing: content-box !important;
+    box-sizing: content-box !important;
+}
+
+
+.GRAYCOLOR01 {
+	background-color: #f5f5f5;
+}
+
+.GRAYCOLOR02 {
+	background-color: #e0e0e0;
+}
+
+.GRAYCOLOR03 {
+	background-color: #bdbdbd;
+}

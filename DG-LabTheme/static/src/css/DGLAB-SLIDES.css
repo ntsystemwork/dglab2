@@ -64,12 +64,12 @@ li{
 
 li.inact:hover{
 	/* The inactive state, highlighted on mouse over */
-	background:url(/DG-LabTheme/static/src/images/pic_bg.png) repeat;
+	background:url(/DG-LabTheme/static/src/images/SlideShow_Images/pic_bg.png) repeat;
 }
 
 li.act,li.act:hover{
 	/* The active state of the thumb */
-	background:url(/DG-LabTheme/static/src/SlideShow_Images/active_bg.png) no-repeat;
+	background:url(/DG-LabTheme/static/src/images/SlideShow_Images/active_bg.png) no-repeat;
 }
 
 li.act a{
@@ -78,7 +78,7 @@ li.act a{
 
 .fbar{
 	/* The left-most vertical bar, next to the first thumbnail */
-	width:5px;
+	/*width:5px;*/
 	/*background:url(/Theme_DGLab/static/src/images/divider.png) no-repeat right;*/
 }
 
@@ -93,9 +93,7 @@ a img{
 	border:none;
 }
 
-
 /* The styles below are only necessary for the demo page */
-
 h1{
 	font-family:"Myriad Pro",Arial,Helvetica,sans-serif;
 	font-size:36px;

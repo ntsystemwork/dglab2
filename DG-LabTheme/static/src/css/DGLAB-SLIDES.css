@@ -9,12 +9,13 @@ body
 
 /* Gallery styles */
 #gallery{
-	/* CSS3 Box Shadow */
+	/* CSS3 Box Shadow
 	-moz-box-shadow:0 0 3px #AAAAAA;
 	-webkit-box-shadow:0 0 3px #AAAAAA;
 	box-shadow:0 0 3px #AAAAAA;
 
-	/* CSS3 Rounded Corners */
+	/* CSS3 Rounded Corners
+
 	-moz-border-radius-bottomleft:4px;
 	-webkit-border-bottom-left-radius:4px;
 	border-bottom-left-radius:4px;
@@ -25,7 +26,9 @@ body
 
 	border:1px solid white;
 	/*	background:url(/Theme_DGLab/static/src/images/ .jpg) repeat-x bottom center #ffffff;*/
-	/* The width of the gallery */
+	
+	/* The width of the gallery
+
 	width:920px;
 	overflow:hidden;
 }
@@ -64,7 +67,7 @@ li{
 
 li.inact:hover{
 	/* The inactive state, highlighted on mouse over */
-	background:url(/DG-LabTheme/static/src/images/SlideShow_Images/pic_bg.png) repeat;
+	/*background:url(/DG-LabTheme/static/src/images/SlideShow_Images/pic_bg.png)*/ repeat;
 }
 
 li.act,li.act:hover{

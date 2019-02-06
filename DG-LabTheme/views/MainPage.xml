@@ -13,39 +13,38 @@
 				<!--INICIO DE SLIDE SHOW SERVICIOS-->
 
 				<div id="main">
-
-
 					<div id="gallery">
 						<div id="slides">
+
 							<div class="slide">
 								<div style="background-color: blueviolet; width: 930px; height: 420px;">
-							<h1>Pagina 1</h1>
-							<h3>Subtitulo pagina 1</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam obcaecati, quaerat cupiditate reiciendis, tenetur asperiores facilis enim est dicta quas aut architecto, reprehenderit debitis soluta totam labore sunt praesentium numquam?</p>
+									<h1>Pagina 1</h1>
+									<h3>Subtitulo pagina 1</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam obcaecati, quaerat cupiditate reiciendis, tenetur asperiores facilis enim est dicta quas aut architecto, reprehenderit debitis soluta totam labore sunt praesentium numquam?</p>
+								</div>
+							</div>
+
+
+							<div class="slide"><img src="/Theme_DGLab/static/src/images/sample_slides/iphone.jpg" width="920" height="400" alt="side" /></div>
+
+							<div class="slide"><img src="/Theme_DGLab/static/src/images/sample_slides/imac.jpg" width="920" height="400" alt="side" /></div>
+
+							<div class="slide"><a href="http://tutorialzine.com/2009/10/beautiful-apple-gallery-slideshow/" target="_blank"><img src="img/sample_slides/info.jpg" width="920" height="400" alt="side" /></a></div>
+
 						</div>
 
+						<div id="menu">
 
+							<ul>
+								<li class="fbar"></li>
+								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
+								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
+								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
+								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
+							</ul>
 
 						</div>
-				    <div class="slide"><img src="/Theme_DGLab/static/src/images/sample_slides/iphone.jpg" width="920" height="400" alt="side" /></div>
-				    <div class="slide"><img src="/Theme_DGLab/static/src/images/sample_slides/imac.jpg" width="920" height="400" alt="side" /></div>
-				    <div class="slide"><a href="http://tutorialzine.com/2009/10/beautiful-apple-gallery-slideshow/" target="_blank"><img src="img/sample_slides/info.jpg" width="920" height="400" alt="side" /></a></div>
-				    </div>
-
-				    <div id="menu">
-
-				    <ul>
-				        <li class="fbar"></li>
-								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
-								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
-								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
-								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
-				    </ul>
-
-
-				    </div>
-
-				  </div>
+					</div>
 
 				</div>
 

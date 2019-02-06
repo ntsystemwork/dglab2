@@ -93,3 +93,47 @@ li a{
 a img{
 	border:none;
 }
+
+
+
+/* The styles below are only necessary for the demo page */
+
+h1{
+	font-family:"Myriad Pro",Arial,Helvetica,sans-serif;
+	font-size:36px;
+	font-weight:normal;
+	margin-bottom:15px;
+}
+
+h2{
+	font-family:"Myriad Pro",Arial,Helvetica,sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	position:absolute;
+	right:0;
+	text-transform:uppercase;
+	top:15px;
+}
+
+#main{
+	/* The main container */
+	margin:15px auto;
+	text-align:center;
+	width:920px;
+	position:relative;
+}
+
+a, a:visited {
+	color:#0196e3;
+	text-decoration:none;
+	outline:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+p{
+	padding:10px;
+	text-align:center;
+}

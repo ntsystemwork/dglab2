@@ -9,7 +9,7 @@
 				<div style ="margin:auto;width:600px"/>
 
 				<!-- copy these lines to your document: -->
-				<div id="noend_hype_container" style="position:relative;overflow:hidden;width:600px;height:400px;">
+				<div id="noend_hype_container" style="position:relative;overflow:hidden;width:600px;height:400px;"/>
 					<script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/NoEnd.hyperesources/noend_hype_generated_script.js?67420"/></script>
 				</div>
 

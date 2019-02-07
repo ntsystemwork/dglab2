@@ -38,17 +38,17 @@
 	float:left;
 }
 
-#menuDots{
+#menu{
 	/* This is the container for the thumbnails */
 	height:45px;
 }
 
-.menuDots ul{
+ul{
 	margin:0px;
 	padding:0px;
 }
 
-.menuDots li{
+li{
 	/* Every thumbnail is a li element */
 	width:60px;
 	display:inline-block;
@@ -57,17 +57,17 @@
 	overflow:hidden;
 }
 
-.menuDots li.inact:hover{
+li.inact:hover{
 	/* The inactive state, highlighted on mouse over */
 	background:url(img/pic_bg.png) repeat;
 }
 
-.menuDots li.act,.menuDots li.act:hover{
+li.act,li.act:hover{
 	/* The active state of the thumb */
 	background:url(img/active_bg.png) no-repeat;
 }
 
-.menuDots li.act a{
+li.act a{
 	cursor:default;
 }
 
@@ -77,14 +77,14 @@
 	background:url(img/divider.png) no-repeat right;
 }
 
-.menuDots li a{
+li a{
 	display:block;
 	background:url(img/divider.png) no-repeat right;
 	height:35px;
 	padding-top:10px;
 }
 
-.menuDots a img{
+a img{
 	border:none;
 }
 

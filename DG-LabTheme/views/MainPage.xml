@@ -6,69 +6,12 @@
 
 			<body>
 
-				<div class="GRAYCOLOR02">
-					<h3>Main Lab</h3>
+				<div style ="margin:auto;width:600px">
+
+				<!-- copy these lines to your document: -->
+				<div id="noend_hype_container" style="position:relative;overflow:hidden;width:600px;height:400px;">
+					<script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/NoEnd.hyperesources/noend_hype_generated_script.js?67420"></script>
 				</div>
-
-				<!--INICIO DE SLIDE SHOW SERVICIOS-->
-				<div class="MAIN-CONTENT-PAGE">
-					<div id="main">
-						<div id="gallery">
-							<div id="slides">
-
-								<div class="slide">
-									<!--SLIDE SHOW SERVICIOS-->
-									<div class="SLIDESHOWSERV-MAIN">
-										<div class="SLIDESHOWSERV-TYPESECTION">
-											<h2>Construcción /<br/>
-											Equipamiento</h2>
-											<h3>Baldosas Atérmicas</h3>
-											<p>Las baldosas atérmicas son altamente resistentes a altas temperaturas y son de calidad antideslizante. Debido a que el cambio climático genera olas de calor con temperaturas elevadas, éstas concentran las temperaturas bajas. Es por esto que cada vez más estas baldosas son incorporadas en terrazas, balcones y otras zonas expuestas al Sol.</p>
-											<p>Listones solario o deck atérmico: Otro producto innovador, tradicional como el deck y de poco mantenimiento, son atérmicos y antideslizantes. Viene en distintas tonalidades Arena / Gris / Tiza + pastinas al tono.</p>
-										</div>
-
-										<div class="SLIDESHOWRIGHTIMAGES">
-											<div class="SLIDESHOWRIGHTUNIQUEIMAGE">
-												IMAGEN 1
-											</div>
-
-											<div class="SLIDESHOWRIGHTUNIQUEIMAGE">
-												IMAGEN 2
-											</div>
-										</div>
-
-									</div>
-
-								</div>
-
-
-							<div class="slide"><img src="/Theme_DGLab/static/src/images/sample_slides/iphone.jpg" width="920" height="400" alt="side" /></div>
-
-							<div class="slide"><img src="/Theme_DGLab/static/src/images/sample_slides/imac.jpg" width="920" height="400" alt="side" /></div>
-
-							<div class="slide"><a href="http://tutorialzine.com/2009/10/beautiful-apple-gallery-slideshow/" target="_blank"><img src="img/sample_slides/info.jpg" width="920" height="400" alt="side" /></a></div>
-
-						</div>
-
-						<div id="menu">
-
-							<ul>
-								<li class="fbar"></li>
-								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
-								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
-								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
-								<li class="menuItem"><a href=""><img src="/DG-LabTheme/static/src/images/SlideShow_Images/thumb_SelectedDot.png" alt="thumbnail" /></a></li>
-							</ul>
-
-						</div>
-					</div>
-
-				</div>
-
-
-
-</div>
-
 
 			</body>
 		</t>

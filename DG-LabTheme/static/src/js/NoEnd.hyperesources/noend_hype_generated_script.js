@@ -75,7 +75,7 @@
 	
 	var resources = {};
 	
-	var scenes = [{x:0,p:"600px",c:"#FFFFFF",v:{"2":{c:100,d:100,I:"Solid",e:"1.000000",J:"Solid",K:"Solid",g:"#DDEEFF",L:"Solid",M:1,N:1,A:"#A0A0A0",x:"visible",j:"absolute",B:"#A0A0A0",P:1,k:"div",O:1,z:"1",C:"#A0A0A0",D:"#A0A0A0",a:32,b:149}},n:"Untitled Scene",T:{kTimelineDefaultIdentifier:{d:3,i:"kTimelineDefaultIdentifier",n:"Main Timeline",a:[{f:"2",t:0,d:3,i:"e",e:"1.000000",s:"1.000000",o:"2"},{f:"2",t:0,d:3,i:"a",e:335,s:32,o:"2"},{f:"2",t:0,d:3,i:"b",e:85,s:149,o:"2"},{f:"2",t:0,d:3,i:"d",e:228,s:100,o:"2"},{f:"2",t:0,d:3,i:"c",e:228,s:100,o:"2"}],f:30}},o:"1"}];
+	var scenes = [{x:0,p:"600px",c:"#FFFFFF",onSceneTimelineCompleteActions:[{type:1,sceneOid:"1",transition:1}],v:{"2":{c:-8,d:-8,I:"Solid",e:"1.000000",J:"Solid",K:"Solid",g:"#DDEEFF",L:"Solid",M:1,N:1,A:"#A0A0A0",x:"visible",j:"absolute",B:"#A0A0A0",P:1,k:"div",O:1,z:"1",C:"#A0A0A0",D:"#A0A0A0",a:86,b:203}},n:"Untitled Scene",T:{kTimelineDefaultIdentifier:{d:5.22,i:"kTimelineDefaultIdentifier",n:"Main Timeline",a:[{f:"2",t:0,d:3,i:"e",e:"1.000000",s:"1.000000",o:"2"},{f:"2",t:0,d:3,i:"a",e:389,s:86,o:"2"},{f:"2",t:0,d:3,i:"b",e:139,s:203,o:"2"},{f:"2",t:0,d:3,i:"d",e:120,s:-8,o:"2"},{f:"2",t:0,d:3,i:"c",e:120,s:-8,o:"2"},{f:"2",t:3,d:2.22,i:"c",e:152,s:120,o:"2"},{f:"2",t:3,d:2.22,i:"d",e:152,s:120,o:"2"},{f:"2",t:3,d:2.22,i:"e",e:"1.000000",s:"1.000000",o:"2"},{f:"2",t:3,d:2.22,i:"b",e:237,s:139,o:"2"},{f:"2",t:3,d:2.22,i:"a",e:192,s:389,o:"2"}],f:30}},o:"1"}];
 	
 	var javascripts = [];
 	

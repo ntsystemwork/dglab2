@@ -100,7 +100,7 @@
 	hypeDoc.setMainContentContainerID(mainContainerID);
 	hypeDoc.setResourcesFolderName(resourcesFolderName);
 	hypeDoc.setShowHypeBuiltWatermark(0);
-	hypeDoc.setShowLoadingPage(false);
+	hypeDoc.setShowLoadingPage(true);
 	hypeDoc.setDrawSceneBackgrounds(true);
 	hypeDoc.setGraphicsAcceleration(true);
 	hypeDoc.setDocumentName(documentName);

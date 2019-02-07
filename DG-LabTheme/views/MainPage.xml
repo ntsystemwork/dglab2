@@ -5,6 +5,24 @@
 		<t t-call="website.layout">
 
 			<body>
+
+				<!--MENU BAR PALMERAS-->
+			  <div class="MENUBAR">
+			    <ul>
+			      <li>Login</li>
+						<li>Nosotros / Contacto</li>
+						<li>Digital Store</li>
+						<li>Galería</li>
+						<li>Construcción / Equipamiento</li>
+					</ul>
+				</div>
+
+
+
+
+
+
+				<!--HYPE ANIMATION-->
 				<div style ="margin:auto;width:600px">
 					<!-- copy these lines to your document: -->
 					<div id="noend_hype_container" style="position:relative;overflow:hidden;width:600px;height:400px;">

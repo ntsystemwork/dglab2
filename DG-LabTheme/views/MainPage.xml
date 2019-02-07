@@ -19,7 +19,28 @@
 
 
 
+				<!--MAIN SPLASH START-->
+				<div class="MAIN-SPLASH">
+					<div class="MAIN-WAVE-TOP">
+						<img src="../static/src/images/Main-Curv-Bottom-Menu.png" width="100%" alt="Wave Graphic"/>
+					</div>
 
+					<div class="MAIN-IMAGE">
+						<img src="../static/src/images/Costa-Palmeras-Splash-Image.png" width="100%" alt="Costa Palmeras Splash Image"/>
+					</div>
+
+					<div class="MAIN-WAVE-YELLOW">
+						<img src="../static/src/images/Main-Wave-Yellow.png" width="100%" alt="Costa Palmeras Wave Yellow"/>
+					</div>
+			    <div class="MAIN-TYPOGRAPHY">
+			      FELIZ PISCINA
+			    </div>
+
+			    <div class="MAIN-WAVE-YELLOW">
+			    </div>
+
+					<!--MAIN SPLASH END-->
+				</div>
 
 
 				<!--HYPE ANIMATION-->

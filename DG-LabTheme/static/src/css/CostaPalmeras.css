@@ -1,0 +1,167 @@
+/* CSS Document */
+
+
+/*-----GLOBAL STYLES-----*/
+body {
+	background-color:#F6F6F6;
+	margin:0 auto;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: content-box !important;
+    box-sizing: content-box !important;
+}
+
+/*TYPOGRAPHY*/
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 35px;
+	letter-spacing: -1px;
+	font-weight: 300;
+	color: #39684C;
+	margin-top: 0px;
+	line-height: 37px;
+}
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 21px;
+	letter-spacing: -1px;
+	font-weight: 500;
+	color: #39684C;
+	margin-top: 0px;
+	line-height: 21px;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	letter-spacing: -1px;
+	font-weight: 400;
+	color: #39684C;
+	margin-top: 0px;
+	line-height: 21px;
+}
+
+
+
+/*-----MENU STYLES-----*/
+.MENU {
+	margin: 0 px;
+	width: 100%;
+	background-color: #146F98;
+	height: 68px;
+}
+.MENU ul{
+	list-style:none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size:14px;
+	display:block;
+	text-align: left;
+	height: 70px;
+	color: #E4F4DE;
+}
+.MENU ul li{
+	float: right;
+	display:block;
+	margin-right: 20px;
+	padding: 0px !important;
+	margin-top: 23px;
+}
+
+/*-----MAIN SPLASH STYLES-----*/
+.MAIN-SPLASH {
+	display: block;
+	position: relative;
+	width: 100%;
+	padding-bottom: 56%;
+	/*background-color: aqua;*/
+}
+.MAIN-WAVE-TOP {
+	display: block;
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	height: auto;
+	z-index: 10;
+}
+.MAIN-IMAGE {
+	display: block;
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	z-index: 0;
+}
+.MAIN-WAVE-YELLOW {
+	display: block;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	z-index: 10;
+}
+
+/*-----MAIN-PAGE-----*/
+.MAIN-CONTENT-PAGE{
+	display: block;
+	background-color: red;
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	/*padding-left: 2%;
+	padding-right: 2%;*/
+	box-sizing: border-box !important;
+}
+
+/*-----MAIN-SLIDESHOWSERV-----*/
+.SLIDESHOWSERV-MAIN {
+	background-color: green;
+	width: 100%;
+	height: 545px;
+	box-sizing: border-box !important;
+
+}
+.SLIDESHOWSERV-TYPESECTION {
+	background-color: orange;
+	width: 60%;
+	padding-left: 2%;
+	padding-right: 2%;
+	box-sizing: border-box !important;
+	float: left;
+}
+.SLIDESHOWRIGHTIMAGES {
+	background-color: black;
+	width: 40%;
+	padding-left: 2%;
+	padding-right: 2%;
+	box-sizing: border-box !important;
+	float: left;
+}
+.SLIDESHOWRIGHTUNIQUEIMAGE {
+	background-color: gray;
+	width: 100%;
+	height: 175px;
+	margin-bottom: 10px;
+}
+
+/*-----LIGHTBOX SECTION------*/
+.MAINLIGHTBOXAREA {
+
+}
+
+
+
+
+/*-----MEDIA QUERIES-----*/
+@media only screen and (max-width: 595px) {
+
+}x-width: 1024px;
+	margin: 0 auto;
+}
+
+
+
+
+/*-----MEDIA QUERIES-----*/
+
+@media only screen and (max-width: 595px) {
+
+
+}

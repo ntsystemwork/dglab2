@@ -17,10 +17,23 @@
 						<div id="slides">
 
 							<div class="slide">
-								<div style="background-color: blueviolet; width: 930px; height: 420px;">
-									<h1>Pagina 1</h1>
-									<h3>Subtitulo pagina 1</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam obcaecati, quaerat cupiditate reiciendis, tenetur asperiores facilis enim est dicta quas aut architecto, reprehenderit debitis soluta totam labore sunt praesentium numquam?</p>
+								<!--SLIDE SHOW SERVICIOS-->
+								<div class="SLIDESHOWSERV-MAIN">
+							    <div class="SLIDESHOWSERV-TYPESECTION">
+							      <h2>Construcción /<br/>
+							      Equipamiento</h2>
+							      <h3>Baldosas Atérmicas</h3>
+							      <p>Las baldosas atérmicas son altamente resistentes a altas temperaturas y son de calidad antideslizante. Debido a que el cambio climático genera olas de calor con temperaturas elevadas, éstas concentran las temperaturas bajas. Es por esto que cada vez más estas baldosas son incorporadas en terrazas, balcones y otras zonas expuestas al Sol.</p>
+							      <p>Listones solario o deck atérmico: Otro producto innovador, tradicional como el deck y de poco mantenimiento, son atérmicos y antideslizantes. Viene en distintas tonalidades Arena / Gris / Tiza + pastinas al tono.</p>
+							    </div>
+									<div class="SLIDESHOWRIGHTIMAGES">
+										<div class="SLIDESHOWRIGHTUNIQUEIMAGE">
+											IMAGEN 1
+							      </div>
+							      <div class="SLIDESHOWRIGHTUNIQUEIMAGE">
+							        IMAGEN 2
+							      </div>
+									</div>
 								</div>
 							</div>
 

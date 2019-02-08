@@ -43,18 +43,11 @@
 				</div>
 
 
-				<!--HYPE ANIMATION-->
-				<div style ="margin:auto;width:600px">
-					<!-- copy these lines to your document: -->
-					<div id="noend_hype_container" style="position:relative;overflow:hidden;width:600px;height:400px;">
-						<script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/NoEnd.hyperesources/noend_hype_generated_script.js?67420">
-						</script>
-					</div>
-				</div>
-
 				<div id="serviciospiletas_hype_container" style="margin:auto;position:relative;width:970px;height:500px;overflow:hidden;">
 					<script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/serviciospiletas_hype_generated_script.js?42677"></script>
 				</div>
+
+
 
 			</body>
 		</t>

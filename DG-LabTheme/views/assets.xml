@@ -17,8 +17,9 @@
       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
 
-      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/DG-LabTheme/static/src/js/Pileta-Prueba.hyperesources/piletaprueba_hype_generated_script.js?92894"></script>
-      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/DG-LabTheme/static/src/js/Pileta-Prueba.hyperesources/HYPE.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Pileta-Prueba.hyperesources/piletaprueba_hype_generated_script.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Pileta-Prueba.hyperesources/HYPE.js"></script>
+
 
     </xpath>
   </template>

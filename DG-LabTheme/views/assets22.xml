@@ -16,9 +16,13 @@
 
       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
+      <script type="text/javascript" src="/DG-LabTheme/static/src/js/Slides.js"></script>
 
-      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/DG-LabTheme/static/src/js/Pileta-Prueba.hyperesources/piletaprueba_hype_generated_script.js?92894"></script>
-      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/DG-LabTheme/static/src/js/Pileta-Prueba.hyperesources/HYPE.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/HYPE-596.full.min.js"></script>
+
+      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/HYPE-596.thin.min.js"></script>
+
+      <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/serviciospiletas_hype_generated_script.js?42677"></script>
 
     </xpath>
   </template>

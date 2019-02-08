@@ -5,9 +5,9 @@
     <xpath expr="link[last()]" position="after">
 
 
-    	<link href='https://fonts.googleapis.com/css?family=Open+Sans&subset=latin' rel='stylesheet' type='text/css'/>
-    	<link href='https://fonts.googleapis.com/css?family=Open+Sans:600&subset=latin' rel='stylesheet' type='text/css'/>
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"//>
+    	<link href='https://fonts.googleapis.com/css?family=Open+Sans&subset=latin' rel="stylesheet" type="text/css"/>
+    	<link href='https://fonts.googleapis.com/css?family=Open+Sans:600&subset=latin' rel="stylesheet" type="text/css"/>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
 
       <link rel="stylesheet" type="text/css" href="/DG-LabTheme/static/src/css/DGLAB.css" />
 

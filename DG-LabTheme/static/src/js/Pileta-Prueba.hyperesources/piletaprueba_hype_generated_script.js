@@ -22,7 +22,7 @@
 	if (typeof window.HYPE_DocumentsToLoad == "undefined") {
 		window.HYPE_DocumentsToLoad = new Array();
 	}
- 
+
 	// load HYPE.js if it hasn't been loaded yet
 	if(typeof HYPE_160 == "undefined") {
 		if(typeof window.HYPE_160_DocumentsToLoad == "undefined") {
@@ -39,7 +39,7 @@
 		}
 		return;
 	}
-	
+
 	// handle attempting to load multiple times
 	if(HYPE.documents[documentName] != null) {
 		var index = 1;
@@ -47,7 +47,7 @@
 		do {
 			documentName = "" + originalDocumentName + "-" + (index++);
 		} while(HYPE.documents[documentName] != null);
-		
+
 		var allDivs = document.getElementsByTagName("div");
 		var foundEligibleContainer = false;
 		for(var i = 0; i < allDivs.length; i++) {
@@ -57,28 +57,28 @@
 				do {
 					mainContainerID = "" + originalMainContainerID + "-" + (index++);
 				} while(document.getElementById(mainContainerID) != null);
-				
+
 				allDivs[i].id = mainContainerID;
 				foundEligibleContainer = true;
 				break;
 			}
 		}
-		
+
 		if(foundEligibleContainer == false) {
 			return;
 		}
 	}
-	
+
 	var hypeDoc = new HYPE_160();
-	
+
 	var attributeTransformerMapping = {b:"i",c:"i",bC:"i",d:"i",aS:"i",M:"i",e:"f",aT:"i",N:"i",f:"d",O:"i",g:"c",aU:"i",P:"i",Q:"i",aV:"i",R:"c",bG:"f",aW:"f",aI:"i",S:"i",bH:"d",l:"d",aX:"i",T:"i",m:"c",bI:"f",aJ:"i",n:"c",aK:"i",bJ:"f",X:"i",aL:"i",A:"c",aZ:"i",Y:"bM",B:"c",bK:"f",bL:"f",C:"c",D:"c",t:"i",E:"i",G:"c",bA:"c",a:"i",bB:"i"};
-	
-	var resources = {"0":{n:"Imagen-Construccio%CC%81n-2.png",p:1},"1":{n:"Imagen-Construccio%CC%81n-1.png",p:1}};
-	
+
+	var resources = {"0":{n:"/DG-LabTheme/static/js/Pileta-Prueba.hyperesources/Imagen-Construccio%CC%81n-2.png",p:1},"1":{n:"/DG-LabTheme/static/js/Pileta-Prueba.hyperesources/Imagen-Construccio%CC%81n-1.png",p:1}};
+
 	var scenes = [{x:0,p:"600px",c:"#FFFFFF",v:{"2":{o:"content-box",h:"0",x:"visible",a:138,q:"100% 100%",b:112,j:"absolute",r:"inline",aA:[{type:1,sceneOid:"3",transition:2}],k:"div",c:324,d:175,z:"1",aP:"pointer"},"5":{aU:8,G:"#000000",c:308,aV:8,r:"inline",d:28,s:"'Gill Sans','Lucida Grande',Helvetica,sans-serif",bD:"auto",t:24,Z:"break-word",w:"Pileta 1",j:"absolute",x:"visible",k:"div",y:"preserve",z:"2",aS:8,aT:8,a:138,F:"center",b:42}},n:"Pileta 1",T:{kTimelineDefaultIdentifier:{d:0,i:"kTimelineDefaultIdentifier",n:"Main Timeline",a:[],f:30}},o:"1"},{x:1,p:"600px",c:"#FFFFFF",v:{"4":{o:"content-box",h:"1",x:"visible",a:138,q:"100% 100%",b:112,j:"absolute",r:"inline",aA:[{type:1,sceneOid:"1",transition:2}],k:"div",c:324,d:175,z:"1",aP:"wait"}},n:"Pileta 2",T:{kTimelineDefaultIdentifier:{d:0,i:"kTimelineDefaultIdentifier",n:"Main Timeline",a:[],f:30}},o:"3"}];
-	
+
 	var javascripts = [];
-	
+
 	var functions = {};
 	var javascriptMapping = {};
 	for(var i = 0; i < javascripts.length; i++) {
@@ -90,7 +90,7 @@
 			functions[javascripts[i].name] = (function () {});
 		}
 	}
-	
+
 	hypeDoc.setAttributeTransformerMapping(attributeTransformerMapping);
 	hypeDoc.setResources(resources);
 	hypeDoc.setScenes(scenes);
@@ -110,4 +110,3 @@
 
 	hypeDoc.documentLoad(this.body);
 }());
-

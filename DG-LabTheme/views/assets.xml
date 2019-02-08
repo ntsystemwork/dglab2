@@ -13,6 +13,8 @@
       <link rel="stylesheet" type="text/css" href="/DG-LabTheme/static/src/css/CostaPalmeras.css" />
 
 
+
+
       <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/HYPE-596.full.min.js"></script>
 
       <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/HYPE-596.thin.min.js"></script>
@@ -20,6 +22,11 @@
             <link href="http://apple.com/qtactivex/qtplugin.cab"/>
   <link href="http://www.w3.org/2000/svg"/>
 
+
+  <link href="DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/05B0E5-restorable.plist"/>
+
+
+  <link href="DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/PIE.htc"/>
 
 
 

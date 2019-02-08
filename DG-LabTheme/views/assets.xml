@@ -5,7 +5,7 @@
     <xpath expr="link[last()]" position="after">
 
       <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet"/>
-      
+
       <link rel="stylesheet" type="text/css" href="/DG-LabTheme/static/src/css/DGLAB.css" />
 
       <link rel="stylesheet" type="text/css" href="/DG-LabTheme/static/src/css/DGLAB-SLIDES.css" />
@@ -16,6 +16,9 @@
       <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/HYPE-596.full.min.js"></script>
 
       <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/HYPE-596.thin.min.js"></script>
+
+            <link href="http://apple.com/qtactivex/qtplugin.cab"/>
+
 
 
       <script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/serviciospiletas_hype_generated_script.js"></script>

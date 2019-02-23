@@ -6,69 +6,7 @@
 
 			<body>
 
-
-
-
-				<!--MENU BAR PALMERAS-->
-			  <div class="MENUBAR">
-			    <ul>
-			      <li>Login</li>
-						<li>Nosotros / Contacto</li>
-						<li>Digital Store</li>
-						<li>Galería</li>
-						<li>Construcción / Equipamiento</li>
-					</ul>
-				</div>
-
-
-
-				<!--MAIN SPLASH START-->
-				<div class="MAIN-SPLASH">
-					<div class="MAIN-WAVE-TOP">
-						<img src="/DG-LabTheme/static/src/images/Main-Curv-Bottom-Menu.png" width="100%" alt="Wave Graphic"/>
-					</div>
-
-					<div class="MAIN-IMAGE">
-						<img src="/DG-LabTheme/static/src/images/Costa-Palmeras-Splash-Image.png" width="100%" alt="Costa Palmeras Splash Image"/>
-					</div>
-
-					<div class="MAIN-WAVE-YELLOW">
-						<img src="/DG-LabTheme/static/src/images/Main-Wave-Yellow.png" width="100%" alt="Costa Palmeras Wave Yellow"/>
-					</div>
-			    <div class="MAIN-TYPOGRAPHY">
-			      FELIZ PISCINA
-			    </div>
-
-			    <div class="MAIN-WAVE-YELLOW">
-			    </div>
-
-					<!--MAIN SPLASH END-->
-				</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				<div id="serviciospiletas_hype_container" style="margin:auto;position:relative;width:970px;height:500px;overflow:hidden;">
-					<script type="text/javascript" charset="utf-8" src="/DG-LabTheme/static/src/js/Servicios-Piletas.hyperesources/serviciospiletas_hype_generated_script.js?44302"></script>
-				</div>
-
-
-
-
+<h1>HOLA</h1>
 
 			</body>
 		</t>
